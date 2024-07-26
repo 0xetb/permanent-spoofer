@@ -1,0 +1,13 @@
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\bin\Debug\Project Lmao.exe.config
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\bin\Debug\Project Lmao.exe
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\bin\Debug\Project Lmao.pdb
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project Lmao.csproj.AssemblyReference.cache
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project_Lmao.MainForm.resources
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project_Lmao.Properties.Resources.resources
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project Lmao.csproj.GenerateResource.cache
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project Lmao.csproj.CoreCompileInputs.cache
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project Lmao.exe
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project Lmao.pdb
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\bin\Debug\Guna.UI2.dll
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project .AAB7A05C.Up2Date
+C:\Users\etb\source\repos\Project Lmao\Project Lmao\obj\Debug\Project_Lmao.Spoof.resources
