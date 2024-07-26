@@ -1,5 +1,7 @@
 # Hello skids
 
+# This is for educationl purposes only. I am not responsible for any missuse of this. You are not allowed to license this product.
+
 Today i will post a c# Permanent spoofer..
 
 Note - Source will be updated when i feel like it and will not be uploaded instantly (im making repository as im working on it)
