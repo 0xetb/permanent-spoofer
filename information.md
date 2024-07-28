@@ -2,6 +2,7 @@
 # All the information you need about the spoofer.
 
 ** What does this do? **
+
 This application permanently modifies your devices
 serials numbers on a kernel level.
 
